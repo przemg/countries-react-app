@@ -21,4 +21,4 @@ Design come from [Frontend Mentor](https://frontendmentor.io) website and it is 
 
 ## Lighthouse report
 
-![Lighthouse report for my solution](./lighthouse-report/lighthouse.JPG)
+![Lighthouse report for my solution](./lighthouse-report/lighthouse.jpg)
