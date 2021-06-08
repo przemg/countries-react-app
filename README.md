@@ -1,4 +1,4 @@
-# Countries React App with color theme switcher\
+# Countries React App with color theme switcher
 :iphone: Website is fully responsive
 
 Live URL: [https://stupefied-heisenberg-52de30.netlify.app/](https://stupefied-heisenberg-52de30.netlify.app/)
