@@ -1,13 +1,24 @@
-# Frontend Mentor - REST Countries API with color theme switcher
+# Countries React App with color theme switcher
 
-![Design preview for the REST Countries API with color theme switcher coding challenge](./design/desktop-preview.jpg)
+Live URL: [https://stupefied-heisenberg-52de30.netlify.app/](https://stupefied-heisenberg-52de30.netlify.app/)
 
-## Welcome! 👋
+Storybook URL: [https://laughing-fermat-162337.netlify.app/](https://laughing-fermat-162337.netlify.app/)
 
-Thanks for checking out my solution for this challenge. :blush:
+## Technology stack
+  - React (use: Higher-Order Component and Hooks)
+  - Context API
+  - Axios
+  - Styled Components
+  - React Router
+  - Storybook
+  - REST API ([https://restcountries.eu/](https://restcountries.eu/))
 
-Check [Frontend Mentor](https://frontendmentor.io) website. Their challenges allow you to improve your skills in a real-life workflow.
+## Preview design
+Design come from [Frontend Mentor](https://frontendmentor.io) website and it is a one of their challenges.
+
+![Design preview for the Rock, Paper, Scissors coding challenge](./design/desktop-preview.jpg)
+
 
 ## Lighthouse report
 
-![Lighthouse report for my solution](./lighthouse-report/lighthouse-15-challenge.JPG)
+![Lighthouse report for my solution](./lighthouse-report/lighthouse.JPG)
